@@ -1,0 +1,6 @@
+webdeploy:
+  uri: "webdeploy://webdeploy:8080"
+
+serviceMonitor:
+  additionalLables:
+    release: prometheus
